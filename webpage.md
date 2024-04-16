@@ -2,7 +2,7 @@
 
 I believe in openness and transparency. I think an informative academic page is important for both TTAPs and PhD students. A well-organized lab web page could lead to more collaboration. In this list I gather some of the best pages IMO.
 
-这里收集一些我个人觉得比较好的学术主页。
+Here is a collection of some academic homepages that I personally think are better.
 
 
 | Org                             | by               | type           | link                                  |
