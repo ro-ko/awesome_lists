@@ -21,31 +21,31 @@ Vendors in mainland, China (Updated 07/2022):
 
 |          | Machine          | Duration           | Price (RMB)         | Note                        |
 |----------|---------------|----------------|----------------|------------------------------------------------|
-| 阿里     | 8xV100 (16GB) | 一年           | 80万           | 只有CentOS                                     |
-|          |               | 一个月         | 7.1万          |                                                |
-|          |               | 一小时         |         248.42 |                                                |
-| 华为云   | 8xV100 (32GB) | 一年           | 63万           |                                                |
-|          |               | 一个月         | 6.3万          |                                                |
-|          |               | 一小时         |          131.5 |                                                |
-| 腾讯云   | 8xV100 (32GB) | 一年           | 45.8万(8.3折)  |  [link](https://cloud.tencent.com/document/product/560/8025) |
-|          |               | 一个月         | 4.6万          |                                                |
-|          |               | 一小时 (TIONE) |            147 |                                                |
-|          | 8xA100 (40GB) | 一年           | 113.5万(8.3折) |                                                |
-|          |               | 一个月         | 11.4万         |                                                |
-| 百度云   | 8xA100 (40GB) | 一年           | 99.7万(8.3折)  | [link](https://cloud.baidu.com/product-price/gpu.html) |
-|          |               | 一个月         | 10万           |                                                |
-|          | 8xV100 (32GB) | 一年           | 59.3万         |                                                |
-|          |               | 一个月         | 5.9万          |                                                |
-|          |               | 一小时         |         124.14 |                                                |
-| 矩池云   | 8xV100 (16GB) | 一小时         |             48 |                                                |
-| 智星云   | 8x3090 (24GB) | 一个月         | 2.1万          |                                                |
-|          |               | 一小时         |             36 |                                                |
-|          | 8xA100 (40GB) | 一个月         | 4.5万          |                                                |
-|          |               | 一小时         |             76 |                                                |
-|          | 8xV100 (32GB) | 一个月         | 2.8万          |                                                |
-|          |               | 一小时         |             48 |                                                |
-| 极链AI云 |               |                |                |                                                |
-| 恒源云   |               |                |                |                                                |
+| Ali     | 8xV100 (16GB) | One year           | 800,000           | CentOS only                                     |
+|          |               | One month         | 71,000          |                                                |
+|          |               | One hour         |         248.42 |                                                |
+| Huawei Cloud   | 8xV100 (32GB) | One yea           | 630,000           |                                                |
+|          |               | One month         | 63,000          |                                                |
+|          |               | One hour         |          131.5 |                                                |
+| Tencent Cloud   | 8xV100 (32GB) | 一年           | 458,000(8.3% off)  |  [link](https://cloud.tencent.com/document/product/560/8025) |
+|          |               | One month         | 46,000          |                                                |
+|          |               | One hour (TIONE) |            147 |                                                |
+|          | 8xA100 (40GB) | One year           | 1135,000(8.3% off) |                                                |
+|          |               | One month         | 114,000         |                                                |
+| Baidu cloud   | 8xA100 (40GB) | 一年           | 997,000(8.3% off)  | [link](https://cloud.baidu.com/product-price/gpu.html) |
+|          |               | One month         | 100,000           |                                                |
+|          | 8xV100 (32GB) | One year           | 593,000         |                                                |
+|          |               | One month         | 59,000          |                                                |
+|          |               | One hour         |         124.14 |                                                |
+| Juchiyun   | 8xV100 (16GB) | One hour         |             48 |                                                |
+| Wisdom Nebula   | 8x3090 (24GB) | One month         | 21,000          |                                                |
+|          |               | One hour         |             36 |                                                |
+|          | 8xA100 (40GB) | One month         | 45,000          |                                                |
+|          |               | One hour         |             76 |                                                |
+|          | 8xV100 (32GB) | One month         | 28,000          |                                                |
+|          |               | One hour         |             48 |                                                |
+| Jilian AI Cloud |               |                |                |                                                |
+| Hengyuan Cloud   |               |                |                |                                                |
 | AutoDL   |               |                |                |                          [link](https://www.autodl.com/) , Most Popular                      |
 | OpenBayes |               |               |                 |                 [link](https://openbayes.com/)         |
 
