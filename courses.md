@@ -3,7 +3,7 @@
 
 An important part of being a professor is teaching. Here I collect a list of famous courses and share some personal thoughts on how they are technically managed.
 
-优秀、开放的课程列表。
+Excellent, open course list.
 
 
 
