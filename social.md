@@ -11,7 +11,7 @@ Aside from looking at papers already published at top conferences, we could foll
 
 Here are some public accounts or social media worth paying attention to. The articles recommended above are basically worth reading.
 
-| Name                            | 类型                             | Link                                                     | Note |
+| Name                            | Type                             | Link                                                     | Note |
 |---------------------------------|----------------------------------|----------------------------------------------------------|----------------------------------------------------------|
 | Two Minute Papers               | Youtube                          | [Link](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) |
 | Two Minute Papers               | Twitter                          | [Link](https://twitter.com/twominutepapers) |
@@ -30,7 +30,7 @@ Here are some public accounts or social media worth paying attention to. The art
 | Zhiyuan Community                        | WeChat public account                       |                                                          |
 | CCF Vision Committee                   | WeChat public account                       |                                                          |
 | CVer                            | WeChat public account/Know almost                  |                                                          |
-| 微软研究院AI头条                | WeChat public account                       |                                                          |
+| Microsoft Research AI headlines                | WeChat public account                       |                                                          |
 | ChallengeHub               | WeChat public account                      |                                                          | An open source platform for communication and learning among top players in global competitions in China |
 | CVHub               | WeChat public account                      |                                                          | Computer vision full-stack knowledge sharing, sharing of the latest top conference papers |
 | Coggledata science               | WeChat public account                      |                                                          | Focus on sharing competitions in the field of data science |
