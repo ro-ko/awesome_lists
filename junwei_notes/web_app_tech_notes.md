@@ -7,7 +7,7 @@ Here I present my experiences in setting up different types of demos.
 You can use it as a guide to put up a project page and/or **quickly** deploy a minimum viable product.
 Here I also show you how to make a publicly accessible web app that requires GPU computation from a home machine.
 
-这篇指南总结我组建demo网站的经验，从简单的静态项目页面到需要GPU计算的Web程序，并介绍如何可以通过公网IP访问（比如部署在家庭网络的GPU机器）。
+This guide summarizes my experience in building a demo website, from a simple static project page to a web program that requires GPU computing, and introduces how to access it through a public IP (such as a GPU machine deployed on a home network).
 
 
 + [What framework/server to use](#choosing-the-framework)
