@@ -1,6 +1,6 @@
 # note for monitoring utilization of independent GPU nodes
 
-当你的组里有很多独立的机器时，比如我的组有9台单机，一共30张卡(RTX 3090/4090)，想知道一段时间里这些机器的GPU利用率（一般商用的集群都会有这样的功能），可以用到下面说的开源工具。
+When there are many independent machines in your group, for example, my group has 9 single machines with a total of 30 cards (RTX 3090/4090). I want to know the GPU utilization of these machines over a period of time (generally commercial clusters will have Such functions), you can use the open-source tools mentioned below.
 
 1. Use jupyterlab_nvdashboard
 
@@ -19,7 +19,8 @@ The log is only saved on the web page. No database is used. So you need to keep 
 
 `https://github.com/run-ai/rntop`
 
-This is better for monitoring multiple nodes. 原理：通过 ssh user@IP nvidia-smi 每个节点，然后记录GPU利用率到一个文件。
+This is better for monitoring multiple nodes. 
+Principle：pass `ssh user@IP nvidia-smi` each node then logs GPU utilization to a file.
 
 Suppose you have a head node. Need to put the head node's id_rsa.pub to all the GPU nodes' authorized_keys.
 
