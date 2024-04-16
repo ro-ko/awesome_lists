@@ -7,7 +7,7 @@ However, unlike machines hosted at universities, home servers may not have publi
 (even if there is one, you usually get one public IP at your doorstep and things get tricky if you have multiple machines).
 This guide provides my solution to solve the aforementioned problem.
 
-如果你有GPU电脑在家里，想要能远程访问（一般家庭网络都没有公网IP），这里提供我的经验。
+If you have a GPU computer at home and want to access it remotely (general home networks do not have public IP addresses), here is my experience.
 
 
 + [You have a public IP (via port forwarding)](#with-a-public-ip)
