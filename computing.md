@@ -27,12 +27,12 @@ Vendors in mainland, China (Updated 07/2022):
 | Huawei Cloud   | 8xV100 (32GB) | One yea           | 630,000           |                                                |
 |          |               | One month         | 63,000          |                                                |
 |          |               | One hour         |          131.5 |                                                |
-| Tencent Cloud   | 8xV100 (32GB) | 一年           | 458,000(8.3% off)  |  [link](https://cloud.tencent.com/document/product/560/8025) |
+| Tencent Cloud   | 8xV100 (32GB) | One year           | 458,000(8.3% off)  |  [link](https://cloud.tencent.com/document/product/560/8025) |
 |          |               | One month         | 46,000          |                                                |
 |          |               | One hour (TIONE) |            147 |                                                |
 |          | 8xA100 (40GB) | One year           | 1135,000(8.3% off) |                                                |
 |          |               | One month         | 114,000         |                                                |
-| Baidu cloud   | 8xA100 (40GB) | 一年           | 997,000(8.3% off)  | [link](https://cloud.baidu.com/product-price/gpu.html) |
+| Baidu cloud   | 8xA100 (40GB) | One year           | 997,000(8.3% off)  | [link](https://cloud.baidu.com/product-price/gpu.html) |
 |          |               | One month         | 100,000           |                                                |
 |          | 8xV100 (32GB) | One year           | 593,000         |                                                |
 |          |               | One month         | 59,000          |                                                |
